@@ -1,5 +1,5 @@
-# Reinforcement-Learning
-Implementation of different Reinforcement Learning Algorithms
+# Reinforcement-Learning-Deep-Q-Networks
+Implementation of different Deep Q Reinforcement Learning Algorithms
 
 <br><br>
 Original Papers:<br><br>
