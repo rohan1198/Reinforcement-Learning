@@ -12,3 +12,7 @@ Original Papers:<br><br>
 6. Dueling DQN:- [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf)
 7. Categorical DQN:- [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/pdf/1707.06887.pdf)
 8. Rainbow DQN:- [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf)
+
+<br><br><br>
+<b>Demo:</b><br>
+![](https://github.com/rohan1198/Super-Mario-Reinforcement-Learning/blob/main/rohan-MarioDuelingDQN/mario.gif)
